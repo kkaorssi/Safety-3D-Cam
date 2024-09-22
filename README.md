@@ -9,7 +9,7 @@
 - 시각화: Unity를 이용하여 신체 추적 정보를 시각화하여 시스템의 동작을 직관적으로 확인할 수 있습니다.
 
 ## Run Image
-<img src="https://github.com/user-attachments/assets/96c0dc9b-2e74-454f-9e28-b3d84f45abe4">
+<img src="https://github.com/user-attachments/assets/e8a2496e-837c-447d-b33e-0cf226b70536">
 <img src="https://github.com/user-attachments/assets/96c0dc9b-2e74-454f-9e28-b3d84f45abe4">
 
 ## License
