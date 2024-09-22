@@ -8,5 +8,9 @@
 - 실시간 통신: Python은 로봇과 통신하며 실시간으로 모니터링 및 제어하고, 동시에 C#과 통신하며 작업자와의 거리 정보를 받습니다.
 - 시각화: Unity를 이용하여 신체 추적 정보를 시각화하여 시스템의 동작을 직관적으로 확인할 수 있습니다.
 
+## Run Image
+<img src="https://github.com/kkaorssi/Safety-3D-Cam/issues/1#issue-2540732833">
+<img src="https://github.com/kkaorssi/Safety-3D-Cam/issues/2#issue-2540734145">
+
 ## License
 이 프로젝트는 Apache License 2.0에 따라 배포됩니다.
