@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fba33d76e3dad354ca9d125b7e457ebc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cautionInput: {instanceID: 0}
+  - warningInput: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - LeftDistance: {instanceID: 0}
+  - RightDistance: {instanceID: 0}
+  - Detected: {instanceID: 0}
+  - notFound: {instanceID: 0}
+  - LeftGreen: {instanceID: 0}
+  - LeftYellow: {instanceID: 0}
+  - LeftRed: {instanceID: 0}
+  - PrefabJoint: {fileID: 1527992177105458, guid: 953a2430fe79bfb4984e00120976716a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
